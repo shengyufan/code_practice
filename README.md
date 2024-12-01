@@ -12,3 +12,5 @@
 [LC 2577 - 在网格图中访问一个格子的最少时间](LC_daily_question/LC2577.md)
 
 [LC 2097 - 合法重新排列数对](LC_daily_question/LC2097.md)
+
+[LC 1346 - 检查整数及其两倍数是否存在](LC_daily_question/LC1346.md)
