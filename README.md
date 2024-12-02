@@ -14,3 +14,5 @@
 [LC 2097 - 合法重新排列数对](LC_daily_question/LC2097.md)
 
 [LC 1346 - 检查整数及其两倍数是否存在](LC_daily_question/LC1346.md)
+
+[LC 1455 - 检查单词是否为句中其他单词的前缀](LC_daily_question/LC1455.md)
