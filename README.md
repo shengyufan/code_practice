@@ -18,3 +18,5 @@
 [LC 1455 - 检查单词是否为句中其他单词的前缀](LC_daily_question/LC1455.md)
 
 [LC 2109 - 添加空格](LC_daily_question/LC2109.md)
+
+[LC 2825 - 循环增长使字符串子序列等于另一个字符串](LC_daily_question/LC2825.md)
