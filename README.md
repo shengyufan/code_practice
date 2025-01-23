@@ -30,3 +30,11 @@
 [2054 - 两个最好的不重叠活动](LC_daily_question/LC2054.md)
 
 [3152 - 特殊数组 II](LC_daily_question/LC3152.md)
+
+[2981 - 找出出现至少三次的最长特殊子字符串 I](LC_daily_question/LC2981.md)
+
+[2779 - 数组的最大美丽值](LC_daily_question/LC2779.md)
+
+[2558 - 从数量最多的堆中取走礼物](LC_daily_question/LC2558.md)
+
+[2593 - 标记所有元素后数组的分数](LC_daily_question/LC2593.md)
